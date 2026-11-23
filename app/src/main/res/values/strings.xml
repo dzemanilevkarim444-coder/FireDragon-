@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FireDragon</string>
+    <string name="tagline_browser">Fast, Private &amp; Ad-Free Browsing</string>
+    <string name="omnibox_hint">Search or type web address</string>
+    <string name="new_tab">New tab</string>
+    <string name="new_incognito_tab">New incognito tab</string>
+    <string name="close_tab">Close tab</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="tutorial_setup">Tutorial &amp; Setup</string>
+    <string name="set_default_browser">Set as Default Browser</string>
+    <string name="default_browser_active">FireDragon is your default browser</string>
+    <string name="default_browser_inactive">Make FireDragon your default browser for system-wide adblock</string>
+    <string name="shield_title">FireDragon Shield</string>
+    <string name="youtube_shield_title">YouTube Clean Shield</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="continue_guest">Continue as Guest</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="find_in_page">Find in page</string>
+    <string name="desktop_site">Desktop site</string>
+    <string name="share">Share</string>
+</resources>

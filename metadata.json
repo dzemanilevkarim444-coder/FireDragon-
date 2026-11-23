@@ -1,0 +1,6 @@
+{
+  "name": "FireDragon",
+  "description": "A Chrome-inspired Android browser with built-in adblock, clean YouTube shield, default browser setup, interactive tutorial, and synced account bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
